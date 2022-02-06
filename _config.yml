@@ -19,20 +19,20 @@
 # in the templates via {{ site.myvariable }}.
 
 title: myBlog || Trevour || demo
-email: your-email@example.com
+email: "63824808+traelincoln@user.github.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a sample blog built by Trevour Chidoti using Jekyll, it uses the minimal mistakes jekyll theme
-  Feel free to look around 
-baseurl: "/myblog/not-main" # the subpath of your site, e.g. /blog
+  This is a sample blog built by Trevour Chidoti using Jekyll, it uses the minimal mistakes jekyll theme.
+baseurl: "/myblog/" #the subpath of your site, e.g. /blog
 url: "https://traelincoln.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: traelincoln
 github_username:  traelincoln
 repository: traelincoln/myblog
 # Build settings
 destination: docs/
-theme: minimal-mistakes-jekyll
+remote_theme: "traelincoln/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +53,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+#   - drafts
