@@ -29,6 +29,7 @@ twitter_username: traelincoln
 github_username:  traelincoln
 repository: traelincoln/myblog
 # Build settings
+destination: docs/
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed

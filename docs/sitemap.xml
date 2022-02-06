@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/myblog/not-main/about/</loc>
+<lastmod>2022-02-05T00:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/myblog/not-main/draft/2022/02/05/identitfy-crisis.html</loc>
+<lastmod>2022-02-05T22:00:00+02:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/myblog/not-main/drafts/2022-02-04-welcome-to-jekyll.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/myblog/not-main/drafts/2022-02-07-identitfy-crisis.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/myblog/not-main/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/myblog/not-main/</loc>
+</url>
+</urlset>
